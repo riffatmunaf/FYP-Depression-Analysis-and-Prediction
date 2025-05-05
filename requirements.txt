@@ -1,6 +1,6 @@
 joblib
-pandas>=2.2.0
-numpy>=2.2.5
+pandas
+numpy
 re
 pathlib
 rich
