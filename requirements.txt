@@ -1,7 +1,6 @@
 joblib
-pandas
-numpy
-re
+pandas>=2.2.0
+numpy>=2.2.5
 pathlib
 rich
 markdown-it-py
