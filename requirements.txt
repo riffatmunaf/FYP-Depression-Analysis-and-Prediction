@@ -5,3 +5,4 @@ pathlib
 rich
 markdown-it-py
 streamlit
+scikit-learn
